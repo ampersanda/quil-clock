@@ -1,6 +1,8 @@
-# clock
+# Clock
 
-A Quil sketch designed to ... well, that part is up to you.
+Just a simple clock made with quil based on Daniel Shiffman's tutorial
+
+![Clock](./preview/ss.gif)
 
 ## Usage
 

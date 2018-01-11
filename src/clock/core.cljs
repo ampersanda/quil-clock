@@ -3,12 +3,9 @@
             [quil.middleware :as m]))
 
 (defn setup []
-  ; Set frame rate to 30 frames per second.
   (q/frame-rate 30)
-  ; Set color mode to HSB (HSV) instead of default RGB.
   (q/color-mode :rgb)
-  ; setup function returns initial state. It contains
-  ; circle color and position.)
+  )
 
 (defn draw-state [state]
   ; Clear the sketch by filling it with light-grey color.
