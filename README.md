@@ -4,6 +4,10 @@ Just a simple clock made with quil based on Daniel Shiffman's tutorial
 
 ![Clock](./preview/ss.gif)
 
+## Medium
+
+[Medium post](https://medium.com/ampersandas-clojure-thing/quil-making-a-clock-with-clojurescript-ea0ca58066dc)
+
 ## Usage
 
 Run `lein figwheel` in your terminal. Wait for a while until you see `Successfully compiled "resources/public/js/main.js"`. Open [localhost:3449](http://localhost:3449) in your browser.
